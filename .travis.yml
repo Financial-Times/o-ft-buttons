@@ -3,6 +3,6 @@ node_js:
   - "0.10"
 before_install:
   - npm install -g https://github.com/Financial-Times/origami-build-tools/tarball/node-0.10
-  - origami-build-tools install
+  - obt install
 script:
-  - origami-build-tools test
+  - obt test
