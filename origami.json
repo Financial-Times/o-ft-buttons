@@ -2,8 +2,8 @@
     "description": "Buttons module",
     "origamiType": "module",
     "origamiVersion": 1,
-    "support": "https://github.com/Financial-Times/o-ft-buttons/issues",
-    "supportStatus": "active",
+    "support": "https://github.com/Financial-Times/o-buttons/issues",
+    "supportStatus": "deprecated",
     "browserFeatures": {
         "optional": [
             "borderradius"
