@@ -15,7 +15,7 @@
 ///
 /// @requires {variable} o-ft-buttons-class
 ///
-/// @link http://build.origami.ft.com/files/o-ft-buttons/demos/pagination.html
+/// @link http://build.origami.ft.com/v2/files/o-ft-buttons/demos/pagination.html
 @mixin oFtButtonsPagination($buttonClass: $o-ft-buttons-class) {
 	> .#{$buttonClass} {
 		padding-left: 5px;
