@@ -1,5 +1,9 @@
 # o-ft-buttons [![Build Status](https://travis-ci.org/Financial-Times/o-ft-buttons.png?branch=master)](https://travis-ci.org/Financial-Times/o-ft-buttons)
 
+### This module is now deprecated, please use [o-buttons](http://registry.origami.ft.com/components/o-buttons) instead.
+
+***
+
 Standard FT-branded buttons.
 
 Buttons come in four themes:
@@ -17,7 +21,7 @@ and two sizes:
 and have 6 different states:
 
 * __standard__: without any interaction
-* __hover__: when the mouse pointer is over 
+* __hover__: when the mouse pointer is over
 * __focus__: it's the current target of keyboard input
 * __selected__: marked as chosen
 * __disabled__: when clicking it will have no effect
